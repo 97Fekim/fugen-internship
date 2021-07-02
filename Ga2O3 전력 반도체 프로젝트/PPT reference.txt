@@ -6,3 +6,6 @@ https://www.semanticscholar.org/paper/Epitaxial-growth-of-thin-films-Palisaitis-
 /* 사진 출처 */
 https://www.tamuracorp.com/products/gao/index.html
 https://www.sciencedirect.com/topics/chemistry/czochralski-process
+https://www.tf.uni-kiel.de/matwis/amat/elmat_en/kap_6/advanced/t6_1_3.html
+http://www.tungsten-molybdenum-sapphire.com/Edge-defined-Film-fed-Growth.htm
+https://rfphotonicslab.org/2020/06/14/semiconductor-growth-technology-molecular-beam-epitaxy-and-mocvd/
