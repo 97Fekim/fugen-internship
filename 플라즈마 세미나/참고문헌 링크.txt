@@ -1,0 +1,21 @@
+/* 플라즈마 개요 */
+https://news.skhynix.co.kr/1813
+/* 공정 플라즈마 기초와 응용 */
+https://www.koreascience.or.kr/article/JAKO201129264791490.pdf
+/* 플라즈마 응용 */
+https://www.cheric.org/files/research/ip/p200805/p200805-301.pdf
+/* 플라즈마와 식각공정 */
+https://metar.tistory.com/entry/%ED%94%8C%EB%
+9D%BC%EC%A6%88%EB%A7%88%EC%99%80-%E
+C%8B%9D%EA%B0%81-%EA%B3%B5%EC%A0%95
+Plasma-and-etching-process
+/* 증착 공정과 플라즈마 */
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=baekhyunwoo&logNo=10033731960
+/* 플라즈마 세정 */
+http://planpnp.co.kr/sub03_02/481
+/* 드라이 엣치 */
+https://www.cheric.org/files/research/ip/p200805/p200805-301.pdf
+/* 박막 증착 공정 */
+https://www.skcareersjournal.com/982
+/* 플라즈마 이온주입 */
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=snpumds&logNo=140035340543
