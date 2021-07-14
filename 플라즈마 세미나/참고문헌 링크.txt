@@ -19,6 +19,10 @@ https://www.cheric.org/files/research/ip/p200805/p200805-301.pdf
 https://www.skcareersjournal.com/982
 /* 플라즈마 이온주입 */
 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=snpumds&logNo=140035340543
+/* 플라즈마 이온주입 논문 */
+file:///C:/Users/82109/Downloads/%ED%94%8C%EB%9D%BC%EC%A6%88%EB%A7%88%EB%A5%BC%20
+%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B3%A0%EB%B6%84%EC%9E%90%EC%97%90%EC%9D
+%98%20%EC%9D%B4%EC%98%A8%20%EC%A3%BC%EC%9E%85%20(1).pdf
 /* 건식 세정 */
 https://www.cheric.org/files/research/ip/p200405/p200405-501.pdf
 /* CCP/ICP의 장단점 */
@@ -31,7 +35,8 @@ http://pal.snu.ac.kr/index.php?mid=board_qna_new&page=2&document_srl=78675
 http://www.koreascience.kr/article/CFKO201732568238433.pdf
 /* 건식식각공정 */
 http://kocw.xcache.kinxcdn.com/KOCW/document/2019/uc/kimdoyoung0220/10.pdf
-
+/* 건식식각,RIE 하이닉스 */
+https://news.skhynix.co.kr/2404
 
 /* TCP의 장점 */
 https://avs.scitation.org/doi/10.1116/1.578543
